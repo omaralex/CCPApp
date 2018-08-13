@@ -1,0 +1,1 @@
+export const URL_SERVER = 'http://www.ccpccncusco2018.com'
